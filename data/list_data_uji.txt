@@ -1,0 +1,3 @@
+input_uji1_huruf_a.txt
+input_uji1_huruf_b.txt
+input_uji1_huruf_c.txt
